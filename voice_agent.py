@@ -130,14 +130,3 @@ def run_voice_agent():
 if __name__ == "__main__":
     run_voice_agent()
 
-
-
-
-
-
-
-# winget install ffmpeg
-# # Windows - install LiveKit CLI using winget winget install LiveKit.LiveKitCLI
-# pip install livekit-agents livekit-plugins-silero groq python-dotenv
-#pip install "livekit-plugins-openai"
-# pip install "livekit-plugins-openai"
