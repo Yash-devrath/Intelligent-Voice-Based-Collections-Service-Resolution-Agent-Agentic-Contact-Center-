@@ -1,4 +1,3 @@
-# test_agent.py
 from agent import run_agent
 from actions import send_payment_link, offer_emi, schedule_callback
 from memory import get_memory
