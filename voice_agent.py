@@ -1,6 +1,4 @@
-# voice_agent.py
 # Voice Agent: Microphone → Whisper STT → Groq AI → gTTS Speaker
-
 import os
 import tempfile
 import pyaudio
